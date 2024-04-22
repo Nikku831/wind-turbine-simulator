@@ -34,4 +34,6 @@ R is the radius of blade
 # How to use
 In order to give input, open the file in simulink and you can simply click the block and give repective inputs.
 
+The outputs(power and torque) will be displayed in the end blocks.
+
 Let me remind you again this simulator is very basic and simply simulates these mathematical equations.
